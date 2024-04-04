@@ -1,5 +1,5 @@
 body{
-    background-color: steelblue;
+    background-color: darkblue;
 }
 h1{
     text-align: center;
@@ -10,7 +10,7 @@ h3{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-stretch: semi-expanded;
     text-align: center;
-    color: orangered;
+    color: rgba(89, 250, 129, 0.986);
 }
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
