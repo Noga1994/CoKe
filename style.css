@@ -14,7 +14,7 @@ h3{
 }
 
 h2 {
-    font-family:cursive;
+    font-family:inherit;
     text-align: center;
     color: aqua; 
 }
