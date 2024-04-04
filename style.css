@@ -3,14 +3,14 @@ body{
 }
 h1{
     text-align: center;
-    color: antiquewhite;
+    color:white;
 }
 h3{
     font-style: oblique;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-stretch: semi-expanded;
     text-align: center;
-    color: lightcyan
+    color: lime;
 }
 
 h2 {
