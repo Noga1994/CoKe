@@ -1,17 +1,18 @@
 body{
-    background-color: darkblue;
+    background-color: navy;
 }
 h1{
     text-align: center;
-    color: rgb(64, 205, 224);
+    color: antiquewhite;
 }
 h3{
     font-style: oblique;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-stretch: semi-expanded;
     text-align: center;
-    color: rgba(89, 250, 129, 0.986);
+    color: lightcyan
 }
+
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
