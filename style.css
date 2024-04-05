@@ -1,5 +1,5 @@
 body{
-    background-color: navy;
+    background-image: linear-gradient(yellow, green, blue);
 }
 h1{
     text-align: center;
@@ -16,7 +16,7 @@ h3{
 h2 {
     font-family:inherit;
     text-align: center;
-    color: aqua; 
+    color: white; 
 }
 header{
     background-color: black;
