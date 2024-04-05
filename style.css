@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(blue, green, blue);
+    background-image: linear-gradient(green, blue, green);
 }
 h1{
     text-align: center;
@@ -12,7 +12,11 @@ h3{
     text-align: center;
     color: white;
 }
-
+a{
+    font-family:inherit;
+    text-align: center;
+    color: white;   
+}
 h2 {
     font-family:inherit;
     text-align: center;
