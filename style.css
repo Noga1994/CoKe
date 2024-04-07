@@ -1,5 +1,5 @@
 body{
-    background-color: darkslateblue;
+    background-color: navy;
 }
 h1{
     text-align: center;
@@ -24,4 +24,10 @@ h2 {
 }
 header{
     background-color: black;
+}
+#links{
+    /*dont want a list like a - or bullet point*/
+    list-style: none;
+    padding-left: 0%;
+    padding: 4px;
 }
