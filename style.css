@@ -8,7 +8,7 @@
     width: 100%;
     height: 90px;
     display: block;
-    background-color: teal;
+    background-color:maroon;
 }
 .inner_header{
     width:75%;
@@ -26,7 +26,7 @@
     float: left;
 }
 .logo_container h1{
-    color: white;
+    color: turquoise;
     height: 100%;
     display: table-cell;
     vertical-align: middle;
@@ -52,10 +52,10 @@
     display: table-cell;
     vertical-align: middle;
     height: 100%;
-    color: white;
+    color:aquamarine;
 }
 body{
-    background-color: navy;
+    background-color:black;
 }
 .Welcome{
     font-family: "Oleo Script", system-ui;
@@ -63,7 +63,7 @@ body{
     font-style: normal;
     text-align: center;
     color:white;
-    background-color: black;
+    background: linear-gradient(maroon,black);
     height: 100%;
 }
 .coding{
@@ -92,18 +92,36 @@ body{
 }
 .contactpage{
     color: white;
+    background: linear-gradient(maroon,black);
     text-align: center;
 }
 .resumepage{
     color: white;
+    background: linear-gradient(maroon,black);
     text-align: center;
 }
 .resume{
     color: white;
     text-align: center;
 }
+.exp{
+    color:white;
+    text-align: left;
+    
+}
+.edu{
+    color: white;
+}
+.skills{
+    color: white;
+}
+.go_con{
+    color: white;
+    text-align: center;
+}
 .portfoliopage{
     color: white;
+    background: linear-gradient(maroon,black);
     text-align: center;
 }
 .portfolio{
