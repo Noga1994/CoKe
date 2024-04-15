@@ -36,14 +36,10 @@
     font-weight: 500;
 }
 .navigation{
-    font-family: "Alegreya", serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
     float: right;
     height: 100%;
 }
-.navigation a{
+.navigation li{
    height: 100%;
     display: table;
     float: left;
@@ -52,7 +48,7 @@
 .navigation a:last-child{
     padding-right: 0%;
 }
-.navigation a li{
+.navigation li a{
     display: table-cell;
     vertical-align: middle;
     height: 100%;
@@ -94,10 +90,23 @@ body{
     color: white;
     text-align: center;
 }
-
-#links{
-    /*dont want a list like a - or bullet point*/
-    list-style: none;
-    padding-left: 0%;
-    padding: 4px;
+.contactpage{
+    color: white;
+    text-align: center;
+}
+.resumepage{
+    color: white;
+    text-align: center;
+}
+.resume{
+    color: white;
+    text-align: center;
+}
+.portfoliopage{
+    color: white;
+    text-align: center;
+}
+.portfolio{
+    color: white;
+    text-align: center;
 }
